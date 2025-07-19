@@ -53,7 +53,6 @@ public class NearbyApp {
     }
 
     private static void showPublicHolidays() {
-        // Mocked holidays for now — you can replace with an API if needed
         System.out.println("\n Upcoming Public Holidays:");
         System.out.println(" 1.Independence Day - August 15");
         System.out.println(" 2.Gandhi Jayanti - October 2");
